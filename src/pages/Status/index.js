@@ -28,11 +28,11 @@ export default function Status() {
         <Details>
           <Top>
             <TitleBox>
-              <Title>Meu status</Title>
+              <Title>My status</Title>
             </TitleBox>
           </Top>
           <UpdateStatus>
-            <Text>Toque para atualizar seu status</Text>
+            <Text>Yesterday, 12:12 PM</Text>
           </UpdateStatus>
         </Details>
       </MyStatusBox>

@@ -25,14 +25,14 @@ export default function Chats() {
       <Details>
         <Top>
           <TitleBox>
-            <Title>Liuti</Title>
+            <Title>Amet</Title>
           </TitleBox>
           <DateBox>
             <Date>21:46</Date>
           </DateBox>
         </Top>
         <LastMessage>
-          <Text>Não. Lorem ipsum</Text>
+          <Text>last sent messages</Text>
         </LastMessage>
       </Details>
     </ChatBox>
@@ -43,14 +43,14 @@ export default function Chats() {
       <Details>
         <Top>
           <TitleBox>
-            <Title>Ju</Title>
+            <Title>Soli</Title>
           </TitleBox>
           <DateBox>
             <Date>18:34</Date>
           </DateBox>
         </Top>
         <LastMessage>
-          <Text>oii</Text>
+          <Text>when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</Text>
         </LastMessage>
       </Details>
     </ChatBox>
@@ -61,14 +61,14 @@ export default function Chats() {
       <Details>
         <Top>
           <TitleBox>
-            <Title>Bluejay</Title>
+            <Title>Constant</Title>
           </TitleBox>
           <DateBox>
             <Date>22:39</Date>
           </DateBox>
         </Top>
         <LastMessage>
-          <Text>entra no discord</Text>
+          <Text>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</Text>
         </LastMessage>
       </Details>
     </ChatBox>

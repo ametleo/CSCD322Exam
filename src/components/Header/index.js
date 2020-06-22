@@ -22,13 +22,13 @@ export default function Header() {
           <MaterialIcons name='camera-alt' size={24} color='rgba(255, 255, 255, 0.6)'/>
         </CameraTab>
         <ChatsTab>
-          <Text>CONVERSAS</Text>
+          <Text>CHATS</Text>
         </ChatsTab>
         <StatusTab>
           <Text>STATUS</Text>
         </StatusTab>
         <CallsTab>
-          <Text>CHAMADAS</Text>
+          <Text>CALLS</Text>
         </CallsTab>
       </Tabs>
     </Container>
